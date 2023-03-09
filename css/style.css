@@ -1,0 +1,279 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Arial', sans-serif;
+}
+
+/*:root{
+	--blue: #;
+}*/
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+#navbar{
+	padding: 10px 20px;
+	border-top: 2px solid darkgrey;
+}
+
+.nav-bar-top{
+	justify-content: space-between;
+	
+}
+
+.nav-bar-top .logo img{
+	margin-right: 20px;
+}
+
+.nav-bar-top nav ul li a{
+	color: grey;
+	margin: 0 10px;
+}
+
+.btn-search button, .playstation-content button{
+	background-color: blue;
+	border: none;
+	outline: none;
+	border-radius: 10px;
+	color: #fff;
+	padding: 2px 10px;
+	margin-right: 10px;
+}
+
+.btn-search input{
+	width: 100px;
+	border: 1px solid #eee;
+	padding: 5px;
+}
+
+.nav-bar-main {
+	margin-top: 20px;
+}
+
+.nav-bar-main nav{
+	margin: auto;
+}
+
+.nav-bar-main .logo{
+	align-self: flex-start;
+}
+
+.nav-bar-main nav ul li a{
+	color: #000;
+	margin: 0 20px;
+	padding: 2px 10px;
+	font-size: 15px;
+	transition: 0.5s;
+}
+
+.nav-bar-main nav ul li a:hover{
+	background-color: grey;
+	border-radius: 10px;
+}
+
+#navbar{
+	box-shadow: 0 10px 30px 10px #eee;
+	margin-bottom: 70px;
+}
+
+header{
+	height: 450px;
+	background-image: url("../1- Main Index Page Assets/2.jpeg");
+	background-size: cover;
+	background-position: center;
+}
+
+.top-games{
+	padding: 30px 60px;
+	box-shadow: 0 5px 10px 10px #eee;
+	margin-bottom:  50px;
+	align-items: unset;
+}
+
+.top-games h2{
+	font-weight: lighter;
+	margin-bottom: 20px;
+}
+
+.top-games .box img{
+	width: 220px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.top-games .row{
+	justify-content: space-between;
+}
+
+.playstation{
+box-shadow: 0 5px 10px 10px #eee;
+margin-bottom: 50px;
+padding-bottom: 10px;
+}
+
+.playstation .bg{
+	background-image: url("../1- Main Index Page Assets/3.jpg");
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+}
+
+.playstation-content{
+	max-width: 70%;
+	margin: 40px auto;
+}
+
+.playstation-content .flex{
+	justify-content: space-between;
+}
+
+.playstation-content button{
+	padding: 5px 15px;
+}
+
+.playstation-content h2{
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+
+.playstation-content p{
+	font-size: 14px;
+}
+
+.categories{
+	max-width: 70%;
+	margin: 40px auto;
+	text-align: center;
+}
+.categories p{
+	margin-bottom: 20px;
+}
+
+.row1{
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.row1 img{
+	width: 300px;
+}
+
+footer{
+	background-color: blue;
+}
+
+footer{
+	padding: 20px 0;
+	color: #fff;
+}
+
+footer .content{
+	max-width: 70%;
+	margin: 0px auto;
+	/*padding: 20px 0px;*/
+}
+
+/*Page 02*/
+.page2-main{
+	align-items: flex-start;
+}
+
+.page2-main .top-games .box img{
+	width: 150px;
+}
+
+.page2-main .top-games{
+	padding: 0px 0px;
+	box-shadow: 0 0px 0px 0px #fff;
+	width: 70%;
+}
+
+.page2-main{
+	padding: 30px 60px;
+}
+
+.page2-main .top-games h2{
+	font-size: 30px;
+}
+
+.page2-main .top-games p{
+	margin-bottom: 20px;
+}
+
+.page2-main .top-games .box p{
+	margin-bottom: 5px;
+}
+
+.page2-main .top-games .box span{
+	font-size: 10px;
+}
+
+.page2-main{
+	justify-content: space-between;
+}
+
+.page2-main .box{
+	margin-bottom: 20px;
+}
+
+aside{
+	width: 25%;
+	padding: 110px 20px;
+}
+
+details{
+	margin-bottom: 20px;
+}
+
+details .flex{
+	justify-content: space-between;
+}
+
+summary{
+	font-size: 22px;
+	margin: 10px 0;
+}
+
+label{
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+/*.price-btn{
+	display: flex;
+	flex-direction: column;
+}*/
+
+.flex-btn{
+	margin-top: 20px;
+}
+.flex-btn button{
+	display: block;
+	background-color: #fff;
+	border: 1px solid darkgrey;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+details input{
+	padding: 20px;
+}
+
+
+
+/*.flex-btn{
+	display: flex;
+	flex-direction: column;
+}*/
