@@ -1,14 +1,21 @@
 # Procom23 - Code in the Dark Competition
-I participated in Procom23 - Code in the Dark Competition, held at FAST university.
 
-Day 01: 2 Rounds
+I participated in the **Procom23 - Code in the Dark Competition**, held at **FAST University**.
 
-Day 02: 4 Rounds
+### Competition Format
 
-Time: 2 hours
+* **Day 01**: 2 rounds
+* **Day 02**: 4 rounds
+* **Time Limit**: 2 hours
 
-Scenario: We were given few pics of the webpages to clone into webpages using HTML/CSS/JS without looking at the output.
+### Scenario
 
-Published Link: https://khairunnisa10.github.io/Procom23-CITD-Competition/
+We were given images of web pages and had to **recreate them using only HTML, CSS, and JavaScript** — without using the internet and previewing the output while coding.
 
-Results: I got 2nd position in the competition.
+### Achievement
+
+I secured **2nd Position** in the competition.
+
+### Live Demo
+
+[View Published Project](https://khairunnisa10.github.io/Procom23-CITD-Competition/)
