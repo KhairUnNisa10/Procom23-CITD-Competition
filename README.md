@@ -18,4 +18,5 @@ I secured **2nd Position** in the competition.
 
 ### Live Demo
 
-[View Published Project](https://khairunnisa10.github.io/Procom23-CITD-Competition/)
+[Page 01](https://khairunnisa10.github.io/Procom23-CITD-Competition/)
+[Page 02](https://khairunnisa10.github.io/Procom23-CITD-Competition/page2.html)
