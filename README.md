@@ -10,7 +10,7 @@ I participated in the **Procom23 - Code in the Dark Competition**, held at **FAS
 
 ### Scenario
 
-We were given images of web pages and had to **recreate them using only HTML, CSS, and JavaScript** — without using the internet and previewing the output while coding.
+We were given images of web pages and had to **recreate them using only HTML, CSS, and JavaScript**, without using the internet and previewing the output while coding.
 
 ### Achievement
 
